@@ -6,7 +6,7 @@ I like free stuff! My wardrobe is vastly tshirts from companies like Amazon, Goo
 
 ---
 
-## T-shirts
+## T-shirts 
 
 ### Amazon Alexa
 
@@ -44,7 +44,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://sendgrid.com/wp-content/uploads/2018/09/9-18_Hacktoberfest_Shirt_Front-580x580.jpg" width="400"> | Have Five accepted pull requests from SendGrid [**Check it out**](https://sendgrid.com/blog/hacktoberfest-2018-has-arrived/?utm_medium=corp&utm_source=twitter&utm_content=blog)
+<img src="https://sendgrid.com/wp-content/uploads/2018/09/9-18_Hacktoberfest_Shirt_Front-580x580.jpg" width="400"> | Have Five accepted pull requests from SendGrid [**Check it out**](https://sendgrid.com/blog/hacktoberfest-2018-has-arrived/)
 
 ---
 
@@ -52,7 +52,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://cdn-images-1.medium.com/max/750/1*BXesj2ROGdmUH3vXHkRaRA.png" width="400"> | Have One pull request to any OpenEBS repositories merged [**Check it out**](https://blog.openebs.io/celebrate-hacktoberfest-2018-with-openebs-206daa1d653c)
+<img src="https://cdn-images-1.medium.com/max/750/1*BXesj2ROGdmUH3vXHkRaRA.png" width="400"> | Have One Merged Pull request to any OpenEBS repository. [**Check it out**](https://blog.openebs.io/celebrate-hacktoberfest-2018-with-openebs-206daa1d653c)
 
 ---
 
@@ -64,7 +64,55 @@ How it looks | How to get?
 
 ---
 
+### source{d} - Hacktoberfest
+
+How it looks | How to get?
+-------------|---------
+<img src="https://cdn-images-1.medium.com/max/1000/1*8NLzZM4A8iG7Jmh9k2CQBg.jpeg" width="400"> | Make One Pull Request to improve their code or documentation. [**Check it out**](https://medium.com/sourcedtech/celebrating-open-source-with-hacktoberfest-2018-7283cfc6666b)
+
+---
+
+### Twilio - Hacktoberfest
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/DpB5PIYVAAAX4eC.jpg:large" width="400"> | Complete the first set of objectives in Twilio Quest. [**Check it out**](https://www.youtube.com/watch?v=r9MPBJjPQdA)
+
+---
+
+### Codeship
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="400"> | Complete 5 builds within a period of 30 days. Get stickers as well! [**Check it out**](https://codeship.com/swag)
+
+---
+
 ## Stickers
+
+### devRant
+
+How it looks | How to get?
+-------------|---------
+<img src="https://devrant.com/static/devrant/img/stickers-collection3.png" width="400"> | Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s to receive a free devRant squishy stress ball!  [**Check it out**](https://devrant.com/free-stickers)
+
+---
+
+### Mullvad
+
+How it looks | How to get?
+-------------|---------
+<img src="https://www.mullvad.net/media/uploads/2017/10/20/mullvad-stickers.jpg" width="400"> | Send an email to support@mullvad.net with "STICKERS" in the subject line. Include a correct postal address in the email. [**Check it out**](https://www.mullvad.net/en/guides/mullvad-stickers-and-merchandise/)
+
+---
+
+### Netlify
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="400"> | Fillout a form! [**Check it out**](https://swag.netlify.com/images/laptop-sticker.jpg)
+
+---
 
 ## Devices
 
@@ -77,4 +125,12 @@ How it looks | How to get?
 ---
 
 ## Misc
+
+### NPM - Socks!
+
+How it looks | How to get?
+-------------|---------
+<img src=https://cdn-images-1.medium.com/max/1000/0*LiRr7IR_2s1Ya7BD.jpg" width="600"> | Help fix a bug or improve documentation.  [**Check it out**](https://medium.com/npm-inc/npm-weekly-131-get-socks-for-docs-welcome-lorin-terri-plus-global-diversity-cfp-day-is-1b965ebc19ca)
+
+---
 
