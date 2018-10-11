@@ -90,6 +90,14 @@ How it looks | How to get?
 
 ---
 
+### Nexmo - Hacktoberfest
+
+How it looks | How to get?
+-------------|---------
+<img src="https://www.nexmo.com/wp-content/uploads/2018/10/Nextoberfest-768x384.png" width="400"> | Create a pull request with your improvements to the code or documentation. [**Take me there!**](https://www.nexmo.com/blog/2018/10/09/join-nextoberfest-tis-the-season-to-be-hacking-dr/)
+
+---
+
 ### Codeship
 
 How it looks | How to get?
@@ -120,7 +128,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="400"> | Just fill out a form! [**Take me there!**](https://swag.netlify.com/images/laptop-sticker.jpg)
+<img src="https://swag.netlify.com/images/laptop-sticker.jpg" width="400"> | Just fill out a simple form with your details. [**Take me there!**](https://swag.netlify.com)
 
 ---
 
