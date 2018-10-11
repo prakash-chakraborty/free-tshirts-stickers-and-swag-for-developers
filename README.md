@@ -40,7 +40,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://user-images.githubusercontent.com/121322/45907730-f6a80b00-bdad-11e8-93ef-774392192716.png" width="400"> | Make Five pull requests in any github repositiries(including [this one](https://github.com/Joonsang1994/Hacktoberfest)) in October. [**Take me there!**](https://hacktoberfest.digitalocean.com)
+<img src="https://user-images.githubusercontent.com/121322/45907730-f6a80b00-bdad-11e8-93ef-774392192716.png" width="400"> | Make Five pull requests in any github repositories (including [this easy one](https://github.com/Joonsang1994/Hacktoberfest)) in October. [**Take me there!**](https://hacktoberfest.digitalocean.com)
 
 ---
 
