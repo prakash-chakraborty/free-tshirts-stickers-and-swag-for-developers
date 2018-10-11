@@ -143,6 +143,10 @@ How it looks | How to get?
 
 ---
 
+## Info
+
+Know about some cool new tshirts or stickers being given away? Raise a pull request with the link I'll make sure it gets added.
+
 If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps me cover costs :smiley: 
 
 Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories)
