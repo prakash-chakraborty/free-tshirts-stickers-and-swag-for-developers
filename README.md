@@ -1,14 +1,15 @@
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)
 
 # Free T-shirts, Free Stickers and more for Developers!
 
-I like free stuff! My wardrobe is vastly tshirts from companies like Amazon, Google, Microsoft that I got from participating in various conferences and competitions. If you are just like me or just want a free tshirt (Who doesn't?!), go through the list below and get ready to pick! :smiley:
+The below list contains currently available free tshirts, free stickers and other free swags for developers :smiley:
 
 ### Shortcuts
-[T-shirts](#T-shirts)
-[Stickers](#Stickers)
-[Devices](#Devices)
-[Misc](#Misc)
+
+* [T-shirts](#t-shirts-shirt)
+* [Stickers](#stickers-page_facing_up)
+* [Devices](#devices-iphone)
+* [Misc](#misc-gift)
+* [Info](#info)
 
 Happy Shopping! :gift: :gift:
 
