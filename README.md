@@ -4,6 +4,8 @@
 
 This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley:
 
+Star :star: the repo to check out later.
+
 ### Shortcuts
 
 * [T-shirts](#t-shirts-shirt)
