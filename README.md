@@ -170,6 +170,14 @@ How it looks | How to get?
 
 ---
 
+### Umbraco - Unknown swag!
+
+How it looks | How to get?
+-------------|---------
+<img src="https://umbraco.com/media/4103/hacktoberfest_2018_banner3_522x522.png" width="400"> | They will be giving away some super exclusive Umbraco swag for Hacktoberfest to everybody who sends a pull request during October that is accepted to be merged.  [**Take me there!**](https://umbraco.com/blog/happy-hacktoberfest/)
+
+---
+
 ## Info
 
 Know about some cool new tshirts or stickers being given away? Raise a pull request with the link and I'll make sure it gets added.
