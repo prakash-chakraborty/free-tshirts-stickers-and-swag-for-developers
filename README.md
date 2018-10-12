@@ -4,9 +4,7 @@
 
 This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley:
 
-Star :star: the repo for your reference.
-
-For updates in email and my private giveaways, [subscribe!](https://www.patreon.com/join/prakashchakraborty?)
+For future updates and private giveaways, Star :star: the repo or [subscribe](https://www.patreon.com/join/prakashchakraborty?).
 
 ### Shortcuts
 
@@ -151,6 +149,13 @@ How it looks | How to get?
 <img src="https://developers.whatismybrowser.com/static/main/content/api/swag/whatismybrowser-stickers.jpg" width="400"> | Your system needs to be integrated with their API and have sent at least 1 API request. [**Take me there!**](https://developers.whatismybrowser.com/api/swag/)
 
 ---
+### HackerEarth
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/CHEWNHXUkAAq3dF.jpg" width="400"> | Participate in any of our monthly contests or Find a bug on HackerEarth. [**Take me there!**](https://www.hackerearth.com/challenges/competitive/)
+
+---
 
 ## Devices :iphone:
 
@@ -169,14 +174,6 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://cdn-images-1.medium.com/max/1000/0*LiRr7IR_2s1Ya7BD.jpg" width="600"> | Help fix a bug or improve documentation.  [**Take me there!**](https://medium.com/npm-inc/npm-weekly-131-get-socks-for-docs-welcome-lorin-terri-plus-global-diversity-cfp-day-is-1b965ebc19ca)
-
----
-
-### Umbraco - Unknown swag!
-
-How it looks | How to get?
--------------|---------
-<img src="https://umbraco.com/media/4103/hacktoberfest_2018_banner3_522x522.png" width="400"> | They will be giving away some super exclusive Umbraco swag for Hacktoberfest to everybody who sends a pull request during October that is accepted to be merged.  [**Take me there!**](https://umbraco.com/blog/happy-hacktoberfest/)
 
 ---
 
