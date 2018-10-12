@@ -153,7 +153,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://pbs.twimg.com/media/CHEWNHXUkAAq3dF.jpg" width="400"> | Participate in any of our monthly contests or Find a bug on HackerEarth. [**Take me there!**](https://www.hackerearth.com/challenges/competitive/)
+<img src="https://pbs.twimg.com/media/CHEWNHXUkAAq3dF.jpg" width="400"> | Participate in any of their monthly contests or Find a bug on HackerEarth website. [**Take me there!**](https://www.hackerearth.com/challenges/competitive/)
 
 ---
 
