@@ -100,6 +100,14 @@ How it looks | How to get?
 
 ---
 
+### Hasura - Hacktoberfest
+
+How it looks | How to get?
+-------------|---------
+<img src="https://cdn-images-1.medium.com/max/1000/1*kQxL8yhs0c1x1WVXnjhrIw.png" width="400"> | They will send a sticker pack to anyone who submits a PR. And if your PR to an issue tagged as ‘hacktoberfest’ gets merged, they will ship a Hasura t-shirt along with the sticker pack.  [**Take me there!**](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
+
+---
+
 ### Codeship
 
 How it looks | How to get?
@@ -131,6 +139,14 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://swag.netlify.com/images/laptop-sticker.jpg" width="400"> | Just fill out a simple form with your details. [**Take me there!**](https://swag.netlify.com)
+
+---
+
+### WhatIsMyBrowser
+
+How it looks | How to get?
+-------------|---------
+<img src="https://developers.whatismybrowser.com/static/main/content/api/swag/whatismybrowser-stickers.jpg" width="400"> | Your system needs to be integrated with their API and have sent at least 1 API request. [**Take me there!**](https://developers.whatismybrowser.com/api/swag/)
 
 ---
 
