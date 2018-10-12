@@ -4,7 +4,9 @@
 
 This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley:
 
-For future updates and private giveaways, Star :star: the repo or [subscribe](https://www.patreon.com/join/prakashchakraborty?).
+Star :star: the repo for your reference.
+
+For updates in email and my private giveaways, [subscribe!](https://www.patreon.com/join/prakashchakraborty?)
 
 ### Shortcuts
 
