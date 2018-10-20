@@ -74,7 +74,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://cdn.auth0.com/blog/hacktoberfest:logo.png" width="400"> | Have one accepted pull request in a qualifying Auth0 Github project in October. You'll recieve stickers also! [**Take me there!**](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0)
+<img src="https://cdn.auth0.com/blog/hacktoberfest:logo.png" width="400"> | Have one accepted pull request in a qualifying Auth0 Github project in October. You'll receive stickers also! [**Take me there!**](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0)
 
 ---
 
