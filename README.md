@@ -96,6 +96,14 @@ How it looks | How to get?
 
 ---
 
+### Jsbin
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/CccQEDjUUAE9wRO.jpg" width="400"> | Just fillout a form to get free stickers!  [**Take me there!**](https://jsbin.com/help/stickers/)
+
+---
+
 ### WhatIsMyBrowser
 
 How it looks | How to get?
