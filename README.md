@@ -42,7 +42,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://camo.githubusercontent.com/2390aa650f4b56a417db70025153adabd6234cf3/68747470733a2f2f6b6f6e6768712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f3130302d636f6e7472696275746f722d742d73686972742d31303234783736382e6a7067" width="400" height="400"> | If your Pull Request to Kong/kong was accepted, you are eligible to receive the very special Contributor T-shirt! [**Take me there!**](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt)
+<img src="https://camo.githubusercontent.com/2390aa650f4b56a417db70025153adabd6234cf3/68747470733a2f2f6b6f6e6768712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f3130302d636f6e7472696275746f722d742d73686972742d31303234783736382e6a7067" width="400"> | If your Pull Request to Kong/kong was accepted, you are eligible to receive the very special Contributor T-shirt! [**Take me there!**](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt)
 
 ---
 
@@ -58,7 +58,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://d33wubrfki0l68.cloudfront.net/7d6c247e2f77a7459da1540c70e8b3d66da16b1c/e64f8/assets/swag-img/gatsby-906a30759d.webp" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
+<img src="https://store.gatsbyjs.org/static/a3a6c096c4ab226d2c24cce771e5463a/c188b/dark-deploy-mockup.jpg" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 ---
 
