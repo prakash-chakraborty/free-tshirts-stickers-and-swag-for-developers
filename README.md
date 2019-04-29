@@ -132,6 +132,14 @@ How it looks | How to get?
 
 ---
 
+### Discord - T-Shirt + Stickers + Pin!
+
+How it looks | How to get?
+-------------|---------
+<img src="https://i.redd.it/swx7lfbu8ht21.jpg" width="600"> | Submit a video where you are answering 5 simple questions.  [**Take me there!**](https://discordapp.com/hypesquad)
+
+---
+
 
 
 ## Info
