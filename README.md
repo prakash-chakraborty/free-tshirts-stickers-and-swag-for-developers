@@ -64,6 +64,22 @@ How it looks | How to get?
 
 ## Stickers :page_facing_up:
 
+### DigitalOcean Currents
+
+How it looks | How to get?
+-------------|---------
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="400"> | Complete this survey to receive a free limited edition "Remote Sammy Shark" sticker!  [**Take me there!**](https://digitalocean.getfeedback.com/r/t382vCPz/)
+
+---
+
+### alligator.io
+
+How it looks | How to get?
+-------------|---------
+<img src="https://d33wubrfki0l68.cloudfront.net/a990a98d41f502b3813c6bd209c5a56ec85b71cf/25849/assets/swag-img/alligator_io-1b9eb1984c.webp" width="400"> | Write some awesome front-end development posts and get stickers!  [**Take me there!**](https://alligator.io/write-for-us/)
+
+---
+
 ### devRant
 
 How it looks | How to get?
@@ -126,7 +142,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://i.ytimg.com/vi/xyuZzCrZQ1g/maxresdefault.jpg" width="600"> | Submit your game and company’s information. Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2. Once your game has been published with Razer Chroma, we will collaborate with your marketing team to run a social media campaign across our channels announcing your game’s Razer Chroma feature. It typically comes together with our video team producing a short clip showcasing your game and it’s integration along with a giveaway of our Razer products together with your game keys/cosmetics. Depending on the quality of integration, we can run unique campaigns around it. [**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
+<img src="https://i.ytimg.com/vi/xyuZzCrZQ1g/maxresdefault.jpg" width="600"> | If you develop a game & submit your game, Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2. [**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
 
 ---
 
