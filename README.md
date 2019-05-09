@@ -76,7 +76,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://d33wubrfki0l68.cloudfront.net/a990a98d41f502b3813c6bd209c5a56ec85b71cf/25849/assets/swag-img/alligator_io-1b9eb1984c.webp" width="400"> | Write some awesome front-end development posts and get stickers!  [**Take me there!**](https://alligator.io/write-for-us/)
+<img src="https://pbs.twimg.com/profile_images/622200384455442432/hf71Z251.png" width="400"> | Write some awesome front-end development posts and get stickers!  [**Take me there!**](https://alligator.io/write-for-us/)
 
 ---
 
@@ -142,7 +142,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://i.ytimg.com/vi/xyuZzCrZQ1g/maxresdefault.jpg" width="600"> | If you develop a game & submit your game, Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2. [**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
+<img src="https://i.ytimg.com/vi/xyuZzCrZQ1g/maxresdefault.jpg" width="600"> | If you develop a game & submit, Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2. [**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
 
 ---
 
@@ -170,7 +170,9 @@ How it looks | How to get?
 
 Know about some cool new tshirts or stickers being given away? Raise a pull request with the link and I'll make sure it gets added.
 
-If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps me cover costs :smiley: 
+If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps :smiley: 
 
-Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories)
+Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories).
+
+Thanks for visiting!
 
