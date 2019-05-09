@@ -122,6 +122,14 @@ How it looks | How to get?
 
 ---
 
+### Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2.
+
+How it looks | How to get?
+-------------|---------
+<img src="https://i.ytimg.com/vi/xyuZzCrZQ1g/maxresdefault.jpg" width="600"> | Submit your game and company’s information. Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2. Once your game has been published with Razer Chroma, we will collaborate with your marketing team to run a social media campaign across our channels announcing your game’s Razer Chroma feature. It typically comes together with our video team producing a short clip showcasing your game and it’s integration along with a giveaway of our Razer products together with your game keys/cosmetics. Depending on the quality of integration, we can run unique campaigns around it. [**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
+
+---
+
 ## Misc :gift:
 
 ### NPM - Socks!
