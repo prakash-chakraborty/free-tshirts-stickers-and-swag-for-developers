@@ -4,9 +4,9 @@
 
 This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley:
 
-Star :star: the repo for your reference.
+:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:
 
-To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash)
+Star :star: the repo for your reference.
 
 ### Shortcuts
 
