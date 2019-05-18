@@ -128,6 +128,14 @@ How it looks | How to get?
 
 ---
 
+### Free Software Foundation Europe
+
+How it looks | How to get?
+-------------|---------
+<img src="https://fsfe.org/contribute/promopics/fsfe-sticker-thumb.png" width="400"> | Fill a form and receive promotional materials from Free Software Foundation Europe! [**Take me there!**](https://fsfe.org/contribute/spreadtheword.en.html)
+
+---
+
 ## Devices :iphone:
 
 ### Amazon Echo Dot
