@@ -6,7 +6,7 @@ This awesome list contains currently available free tshirts, free stickers and o
 
 Star :star: the repo for your reference.
 
-For updates in email and my private giveaways, [subscribe!](https://www.patreon.com/join/prakashchakraborty?)
+To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash)
 
 ### Shortcuts
 
@@ -178,7 +178,13 @@ How it looks | How to get?
 
 Know about some cool new tshirts or stickers being given away? Raise a pull request with the link and I'll make sure it gets added.
 
-If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps :smiley: 
+If you like my work,
+
+Make an one time contribution and I'll send you handpicked best stickers to your address! [Yes! Send me stickers!
+](https://www.paypal.me/prakashc94)
+
+Do you want to receive even more exclusive benefits monthly?
+[Be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps :smiley: 
 
 Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories).
 
