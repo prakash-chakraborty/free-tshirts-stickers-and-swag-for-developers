@@ -181,7 +181,7 @@ Know about some cool new tshirts or stickers being given away? Raise a pull requ
 If you like my work,
 
 Make an one time contribution and I'll send you handpicked best stickers to your address! [Yes! Send me stickers!
-](https://www.paypal.me/prakashc94)
+](https://www.buymeacoffee.com/prakashc94)
 
 Do you want to receive even more exclusive benefits monthly?
 [Be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps :smiley: 
