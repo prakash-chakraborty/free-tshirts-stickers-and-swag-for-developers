@@ -58,7 +58,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://store.gatsbyjs.org/static/a3a6c096c4ab226d2c24cce771e5463a/c188b/dark-deploy-mockup.jpg" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
+<img src="https://pbs.twimg.com/profile_images/875556871427375106/Xuq8DypK_400x400.jpg" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 ---
 
@@ -125,6 +125,14 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://developers.whatismybrowser.com/static/main/content/api/swag/whatismybrowser-stickers.jpg" width="400"> | Your system needs to be integrated with their API and have sent at least 1 API request. [**Take me there!**](https://developers.whatismybrowser.com/api/swag/)
+
+---
+
+### NativeScript
+
+How it looks | How to get?
+-------------|---------
+<img src="https://d2odgkulk9w7if.cloudfront.net/images/default-source/default-album/stickers-photo.jpg?sfvrsn=6bbc0dfe_0" width="400"> | Contribute to NativeScript and get stickers and more. [**Take me there!**](https://www.nativescript.org/blog/nativescript-first-time-contribution-contest-continued-and-extended)
 
 ---
 
