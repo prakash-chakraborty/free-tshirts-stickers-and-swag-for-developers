@@ -26,7 +26,7 @@ Happy Shopping! :gift: :gift:
 
 How it looks | How to get?
 -------------|---------
-<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/india/IN_Oct_Incentive._CB484436986_.png" width="400"> | Publish one Alexa skill to the Alexa Skill Store in October. Chance to win Bose earphones and Sony PS4! [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
+<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/india/INIncentives201905V1._CB464407818_.png" width="400"> | Publish a Skill to the India Alexa Skills Store or add APL to an existing skill between 16 May, 2019 and 30 June, 2019 and get a free, limited-edition Alexa developer t-shirt. [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
 
 ---
 
