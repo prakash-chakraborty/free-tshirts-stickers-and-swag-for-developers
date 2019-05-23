@@ -28,7 +28,7 @@ Happy Shopping! :gift: :gift:
 
 How it looks | How to get?
 -------------|---------
-<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/india/INIncentives201905V1._CB464407818_.png" width="400"> | Publish a Skill to the India Alexa Skills Store or add APL to an existing skill between 16 May, 2019 and 30 June, 2019 and get a free, limited-edition Alexa developer t-shirt. [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
+<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/india/INIncentives201905V1._CB464407818_.png" width="600"> | Publish a Skill to the India Alexa Skills Store or add APL to an existing skill between 16 May, 2019 and 30 June, 2019 and get a free, limited-edition Alexa developer t-shirt. [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
 
 ---
 
@@ -36,7 +36,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://4.bp.blogspot.com/-GHZsAvruLjE/Wr9_TNvT2XI/AAAAAAAACog/tOa75KMU4lszNYlYhmx0tPF6QYh5QorzwCLcBGAs/s1600/DSC_0079.JPG" width="400" height="400"> | Publish your first ever action for Google assistant then you can get a Google T-Shirt. If at least one of your Actions projects reaches one of the three milestones then you can win a Google Home. [**Take me there!**](https://developers.google.com/actions/community/overview)
+<img src="https://4.bp.blogspot.com/-GHZsAvruLjE/Wr9_TNvT2XI/AAAAAAAACog/tOa75KMU4lszNYlYhmx0tPF6QYh5QorzwCLcBGAs/s1600/DSC_0079.JPG" width="400"> | Publish your first ever action for Google assistant then you can get a Google T-Shirt. If at least one of your Actions projects reaches one of the three milestones then you can win a Google Home. [**Take me there!**](https://developers.google.com/actions/community/overview)
 
 ---
 
