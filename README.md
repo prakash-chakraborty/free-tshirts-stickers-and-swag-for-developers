@@ -3,10 +3,12 @@
 # Free T-shirts, Free Stickers and more for Developers!
 
 This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley: <br>
-**NOTE: Swags with (Tested) on it's title has been received by one or more of our collaborators.** <br>
-:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:
+
+**:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**
 
 Star :star: the repo for your reference.
+
+Note: Swags with (Tested) on it's title has been received by one or more of our collaborators. <br>
 
 ### Shortcuts
 
