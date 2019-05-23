@@ -2,8 +2,8 @@
 
 # Free T-shirts, Free Stickers and more for Developers!
 
-This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley:
-
+This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley: <br>
+**NOTE: Swags with (Tested) on it's title has been received by one or more of our collaborators.** <br>
 :envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:
 
 Star :star: the repo for your reference.
@@ -30,7 +30,7 @@ How it looks | How to get?
 
 ---
 
-### Google Assistant
+### Google Assistant (Tested)
 
 How it looks | How to get?
 -------------|---------
@@ -38,7 +38,7 @@ How it looks | How to get?
 
 ---
 
-### Kong
+### Kong (Tested)
 
 How it looks | How to get?
 -------------|---------
@@ -46,7 +46,7 @@ How it looks | How to get?
 
 ---
 
-### Codeship
+### Codeship (Tested)
 
 How it looks | How to get?
 -------------|---------
@@ -54,7 +54,7 @@ How it looks | How to get?
 
 ---
 
-### Gatsby
+### Gatsby (Tested)
 
 How it looks | How to get?
 -------------|---------
@@ -64,7 +64,7 @@ How it looks | How to get?
 
 ## Stickers :page_facing_up:
 
-### DigitalOcean Currents
+### DigitalOcean Currents 
 
 How it looks | How to get?
 -------------|---------
@@ -80,7 +80,7 @@ How it looks | How to get?
 
 ---
 
-### devRant
+### devRant (Tested)
 
 How it looks | How to get?
 -------------|---------
@@ -96,7 +96,7 @@ How it looks | How to get?
 
 ---
 
-### Netlify
+### Netlify (Tested)
 
 How it looks | How to get?
 -------------|---------
@@ -128,7 +128,7 @@ How it looks | How to get?
 
 ---
 
-### NativeScript
+### NativeScript (Tested)
 
 How it looks | How to get?
 -------------|---------
@@ -136,7 +136,7 @@ How it looks | How to get?
 
 ---
 
-### Free Software Foundation Europe
+### Free Software Foundation Europe (Tested)
 
 How it looks | How to get?
 -------------|---------
