@@ -8,7 +8,7 @@ This awesome list contains currently available free tshirts, free stickers and o
 
 Star :star: the repo for your reference.
 
-Note: Swags with (Tested) on it's title has been received by one or more of our collaborators. <br>
+Note: Swags with :heavy_check_mark: on it's title has been received by one or more of our collaborators. <br>
 
 ### Shortcuts
 
@@ -32,7 +32,7 @@ How it looks | How to get?
 
 ---
 
-### Google Assistant (Tested)
+### Google Assistant :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
@@ -40,7 +40,7 @@ How it looks | How to get?
 
 ---
 
-### Kong (Tested)
+### Kong :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
@@ -48,7 +48,7 @@ How it looks | How to get?
 
 ---
 
-### Codeship (Tested)
+### Codeship :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
@@ -56,7 +56,7 @@ How it looks | How to get?
 
 ---
 
-### Gatsby (Tested)
+### Gatsby :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
@@ -82,8 +82,7 @@ How it looks | How to get?
 
 ---
 
-### devRant (Tested)
-
+### devRant :heavy_check_mark:
 How it looks | How to get?
 -------------|---------
 <img src="https://devrant.com/static/devrant/img/stickers-collection3.png" width="400"> | Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s to receive a free devRant squishy stress ball!  [**Take me there!**](https://devrant.com/free-stickers)
@@ -98,7 +97,7 @@ How it looks | How to get?
 
 ---
 
-### Netlify (Tested)
+### Netlify :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
@@ -130,7 +129,7 @@ How it looks | How to get?
 
 ---
 
-### NativeScript (Tested)
+### NativeScript :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
@@ -138,7 +137,7 @@ How it looks | How to get?
 
 ---
 
-### Free Software Foundation Europe (Tested)
+### Free Software Foundation Europe :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
