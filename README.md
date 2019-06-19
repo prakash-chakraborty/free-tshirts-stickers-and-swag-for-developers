@@ -28,7 +28,7 @@ Happy Shopping! :gift: :gift:
 
 How it looks | How to get?
 -------------|---------
-<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/india/INIncentives201905V1._CB464407818_.png" width="600"> | Publish a Skill to the India Alexa Skills Store or add APL to an existing skill between 16 May, 2019 and 30 June, 2019 and get a free, limited-edition Alexa developer t-shirt. [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
+<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/india/INIncentives201905V1._CB464407818_.png" width="600"> | Publish a new multi-modal Alexa skill leveraging Alexa Presentation language (APL) to the India Alexa Skills Store or add APL to an existing skill between 16 May, 2019 and 30 June, 2019 and get a free, limited-edition Alexa developer t-shirt. [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
 
 ---
 
