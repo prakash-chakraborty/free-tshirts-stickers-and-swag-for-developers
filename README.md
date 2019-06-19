@@ -24,7 +24,7 @@ Happy Shopping! :gift: :gift:
 
 ## T-shirts :shirt:
 
-### Amazon Alexa
+### Amazon Alexa :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
@@ -121,7 +121,7 @@ How it looks | How to get?
 
 ---
 
-### WhatIsMyBrowser
+### WhatIsMyBrowser :heavy_check_mark:
 
 How it looks | How to get?
 -------------|---------
