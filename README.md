@@ -60,7 +60,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://pbs.twimg.com/profile_images/875556871427375106/Xuq8DypK_400x400.jpg" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
+<img src="https://d33wubrfki0l68.cloudfront.net/0e82e59b21fd9fe985666b32a9de4dd7c14f59bc/a4e88/assets/swag-img/gatsby-52c61256b1.webp" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 ---
 
