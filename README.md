@@ -66,14 +66,6 @@ How it looks | How to get?
 
 ## Stickers :page_facing_up:
 
-### DigitalOcean Currents 
-
-How it looks | How to get?
--------------|---------
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="400"> | Complete this survey to receive a free limited edition "Remote Sammy Shark" sticker!  [**Take me there!**](https://digitalocean.getfeedback.com/r/t382vCPz/)
-
----
-
 ### alligator.io
 
 How it looks | How to get?
