@@ -64,6 +64,14 @@ How it looks | How to get?
 
 ---
 
+### HacktoberFest :heavy_check_mark:
+
+How it looks | How to get?
+-------------|---------
+<img src="https://img.devrant.com/devrant/rant/r_1124364_j6bSM.jpg" width="400"> | Complete 4 Pull Request to any public GitHub Repos within a period of 31 days from 1-31 October and Get a limited edition T-shirt and stickers as well! [**Take me there!**](https://hacktoberfest.digitalocean.com/)
+
+---
+
 ## Stickers :page_facing_up:
 
 ### DigitalOcean Currents 
