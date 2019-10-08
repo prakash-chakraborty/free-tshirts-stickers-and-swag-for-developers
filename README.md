@@ -27,7 +27,7 @@ Happy Shopping! :gift: :gift:
 ### HacktoberFest 2019: heavy_check_mark:
 How it looks | How to get?
 -------------|---------
-<img src="https://img.devrant.com/devrant/rant/r_1944578_kPa8z.jpg" width="600">|Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community.
+<img src="https://img.devrant.com/devrant/rant/r_1944578_kPa8z.jpg" width="400">|Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community.
 To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 T-shirts will be awarded on a first-come, first-serve basis to the first 50,000 participants who successfully complete the Hacktoberfest challenge. We’ll start sending out emails with more details on redeeming T-shirts throughout the month, so stay tuned.[**Take me there!**](https://hacktoberfest.digitalocean.com/)
 ---
