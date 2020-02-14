@@ -182,6 +182,12 @@ How it looks | How to get?
 
 ---
 
+### RedisLabs :heavy_check_mark:
+
+How it looks | How to get?
+-------------|---------
+<img src="https://redislabs.com/wp-content/uploads/2019/12/Redislabs-Cube-T-shirt-01.png" width="400"> | Sign up and create a database on RedisLabs and earn a free tshirt! [**Take me there!**](https://redislabs.com/try-redis-cloud-essentials-for-a-free-shirt/)
+
 ### Hacktoberfest Sites! 
 
 Here is a site of all sites that giveaway free swag, if you contribute to their repositories.
