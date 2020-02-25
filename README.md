@@ -63,7 +63,13 @@ How it looks | How to get?
 
 ---
 
+### TigerGraph :heavy_check_mark:
 
+How it looks | How to get?
+-------------|---------
+<img src="https://info.tigergraph.com/hs-fs/hubfs/Screen%20Shot%202019-10-03%20at%201.29.20%20PM.png" width="400"> | Complete TigerGraph free certification exam. [**Take me there!**](https://www.tigergraph.com/certification-gsql-101/)
+
+---
 
 ## Stickers :page_facing_up:
 
