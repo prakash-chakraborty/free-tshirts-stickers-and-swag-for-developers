@@ -198,7 +198,7 @@ How it looks | How to get?
 
 ### Hacktoberfest Sites! 
 
-Here is a site of all sites that giveaway free swag, if you contribute to their repositories.
+Here is a site of all sites that giveaway free swag, if you contribute to their repositories.(only for october)
 
 :gift: https://hacktoberfestswaglist.com/ :gift:
 
