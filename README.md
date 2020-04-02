@@ -32,6 +32,14 @@ How it looks | How to get?
 
 ---
 
+### Google Assistant :heavy_check_mark:
+
+How it looks | How to get?
+-------------|---------
+<img src="https://miro.medium.com/max/400/1*pYHONrA_3QM4dgtBSKrYWQ.jpeg" width="600"> | Deploy your own trivia on actions on google and get a free google assistant t-shirt with $200 google cloud credits. [**Take me there!**](https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae)
+
+---
+
 ### Kong :heavy_check_mark:
 
 How it looks | How to get?
