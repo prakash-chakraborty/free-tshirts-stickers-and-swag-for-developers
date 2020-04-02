@@ -28,7 +28,23 @@ Happy Shopping! :gift: :gift:
 
 How it looks | How to get?
 -------------|---------
-<img src="https://d3ogm7ac91k97u.cloudfront.net/content/dam/alexa/en-in/devincentives/IN_DevIncentives_Feb2020.png" width="600"> | Publish Alexa skills to the India Alexa Skills Store between April 1, 2020 and May 31, 2020 and stand to get earn Amazon Gift Cards. [**Take me there!**](**:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**)
+<img src="https://d3ogm7ac91k97u.cloudfront.net/content/dam/alexa/en-in/devincentives/IN_DevIncentives_Feb2020.png" width="600"> | Publish Alexa skills to the India Alexa Skills Store between April 1, 2020 and May 31, 2020 and stand to get earn Amazon Gift Cards. [**Take me there!**](https://developer.amazon.com/en-IN/alexa/alexa-skills-kit/alexa-developer-skill-promotion)
+
+---
+
+### Blockstack : Zero-to-DApp :heavy_check_mark:
+
+How it looks | How to get?
+-------------|---------
+<img src="https://static.tildacdn.com/tild6433-6535-4833-b932-323062343930/Zero_to_Dapp_shirt_p.png" width="600"> | Before you can get a t-shirt, you must complete the Zero-to-DApp tutorial and submit your sample [**Take me there!**](https://community.blockstack.org/z2d-shirt)
+
+---
+
+### erxes :heavy_check_mark:
+
+How it looks | How to get?
+-------------|---------
+<img src="https://erxes.io/static/images/t-shirt.jpeg" width="600"> | To show their appreciation, they are sending everyone who contributes to erxes a special package, which includes a t-shirt and stickers. [**Take me there!**](https://erxes.io/hubspot-alternative-erxes-swag)
 
 ---
 
