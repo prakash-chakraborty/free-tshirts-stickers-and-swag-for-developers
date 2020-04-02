@@ -28,15 +28,7 @@ Happy Shopping! :gift: :gift:
 
 How it looks | How to get?
 -------------|---------
-<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/india/INIncentives201905V1._CB464407818_.png" width="600"> | Publish a new multi-modal Alexa skill leveraging Alexa Presentation language (APL) to the India Alexa Skills Store or add APL to an existing skill between 1 October, 2019 and 31 October, 2019 and get a free, limited-edition Alexa developer t-shirt. [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
-
----
-
-### Google Assistant :heavy_check_mark:
-
-How it looks | How to get?
--------------|---------
-<img src="https://miro.medium.com/max/400/1*pYHONrA_3QM4dgtBSKrYWQ.jpeg" width="600"> | Deploy your own trivia on actions on google and get a free google assistant t-shirt with $200 google cloud credits. [**Take me there!**](https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae)
+<img src="https://d3ogm7ac91k97u.cloudfront.net/content/dam/alexa/en-in/devincentives/IN_DevIncentives_Feb2020.png" width="600"> | Publish Alexa skills to the India Alexa Skills Store between April 1, 2020 and May 31, 2020 and stand to get earn Amazon Gift Cards. [**Take me there!**](**:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**)
 
 ---
 
@@ -71,22 +63,6 @@ How it looks | How to get?
 
 ---
 
-### TigerGraph :heavy_check_mark:
-
-How it looks | How to get?
--------------|---------
-<img src="https://info.tigergraph.com/hs-fs/hubfs/Screen%20Shot%202019-10-03%20at%201.29.20%20PM.png" width="400"> | Complete TigerGraph free certification exam. [**Take me there!**](https://www.tigergraph.com/certification-gsql-101/)
-
----
-
-### Axe Deque :heavy_check_mark:
-
-How it looks | How to get?
--------------|---------
-<img src="https://pbs.twimg.com/media/EGmfEfqW4AAAXoY.jpg" width="400"> | Try aXe Pro Beta for some time (for free) and provide feedback of the tool. [**Take me there!**](https://www.deque.com/axe-pro-sign-up/)
-
----
-
 ## Stickers :page_facing_up:
 
 ### alligator.io
@@ -104,22 +80,6 @@ How it looks | How to get?
 
 ---
 
-### Mullvad
-
-How it looks | How to get?
--------------|---------
-<img src="https://www.mullvad.net/media/uploads/2017/10/20/mullvad-stickers.jpg" width="400"> | Send an email to support@mullvad.net with "STICKERS" in the subject line. Include a correct postal address in the email. [**Take me there!**](https://mullvad.net/en/blog/2017/6/30/mullvad-merch-available/)
-
----
-
-### Netlify :heavy_check_mark:
-
-How it looks | How to get?
--------------|---------
-<img src="https://swag.netlify.com/images/laptop-sticker.jpg" width="400"> | Just fill out a simple form with your details. [**Take me there!**](https://swag.netlify.com)
-
----
-
 ### Opsdroid
 
 How it looks | How to get?
@@ -133,14 +93,6 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://pbs.twimg.com/media/CccQEDjUUAE9wRO.jpg" width="400"> | Just fillout a form to get free stickers!  [**Take me there!**](https://jsbin.com/help/stickers/)
-
----
-
-### WhatIsMyBrowser :heavy_check_mark:
-
-How it looks | How to get?
--------------|---------
-<img src="https://developers.whatismybrowser.com/static/main/content/api/swag/whatismybrowser-stickers.jpg" width="400"> | Your system needs to be integrated with their API and have sent at least 1 API request. [**Take me there!**](https://developers.whatismybrowser.com/api/swag/)
 
 ---
 
@@ -170,19 +122,7 @@ How it looks | How to get?
 
 ## Devices :iphone:
 
-### Amazon Echo Dot
-
-How it looks | How to get?
--------------|---------
-<img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F198345%2Fechodot.jpg&w=400&op=resize" width="600"> | Publish three or more Alexa skills to the Alexa India Skill Store this month and you automatically earn an Echo Dot in addition to the limited-edition Alexa developer t-shirt. [**Take me there!**](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
-
----
-
-### Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2.
-
-How it looks | How to get?
--------------|---------
-<img src="https://i.ytimg.com/vi/xyuZzCrZQ1g/maxresdefault.jpg" width="600"> | If you develop a game & submit, Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2. [**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
+### Empty at this point :(
 
 ---
 
@@ -204,25 +144,12 @@ How it looks | How to get?
 
 ---
 
-### Hacktoberfest Sites! 
-
-Here is a site of all sites that giveaway free swag, if you contribute to their repositories.(only for october)
-
-:gift: https://hacktoberfestswaglist.com/ :gift:
-
----
 
 ## Info
 
 Know about some cool new tshirts or stickers being given away? Raise a pull request with the link and I'll make sure it gets added.
 
-If you like my work,
-
-Make an one time contribution and I'll send you best handpicked stickers to your address! [Yes! Send me stickers!
-](https://www.buymeacoffee.com/prakashc94)
-
-Do you want to receive even more exclusive benefits monthly?
-[Be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps :smiley: 
+[Buy me a coffee :smiley:](https://www.buymeacoffee.com/prakashc94)
 
 Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories).
 
