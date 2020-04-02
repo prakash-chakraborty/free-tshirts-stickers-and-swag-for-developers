@@ -63,7 +63,21 @@ How it looks | How to get?
 
 ---
 
+### TigerGraph :heavy_check_mark:
 
+How it looks | How to get?
+-------------|---------
+<img src="https://info.tigergraph.com/hs-fs/hubfs/Screen%20Shot%202019-10-03%20at%201.29.20%20PM.png" width="400"> | Complete TigerGraph free certification exam. [**Take me there!**](https://www.tigergraph.com/certification-gsql-101/)
+
+---
+
+### Axe Deque :heavy_check_mark:
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/EGmfEfqW4AAAXoY.jpg" width="400"> | Try aXe Pro Beta for some time (for free) and provide feedback of the tool. [**Take me there!**](https://www.deque.com/axe-pro-sign-up/)
+
+---
 
 ## Stickers :page_facing_up:
 
