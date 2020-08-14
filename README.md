@@ -116,7 +116,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://d2odgkulk9w7if.cloudfront.net/images/default-source/default-album/stickers-photo.jpg?sfvrsn=6bbc0dfe_0" width="400"> | Contribute to NativeScript and get stickers and more. [**Take me there!**](https://www.nativescript.org/blog/nativescript-first-time-contribution-contest-continued-and-extended)
+<img src="https://d1lfyz5kwt8vu9.cloudfront.net/t3nu2ptq9pi0fswk9qxb.jpg" width="400"> | Contribute to NativeScript and get stickers and more. [**Take me there!**](https://www.nativescript.org/blog/nativescript-first-time-contribution-contest-continued-and-extended)
 
 ---
 
