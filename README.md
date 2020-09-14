@@ -79,6 +79,14 @@ How it looks | How to get?
 
 ---
 
+### DigitalOcean : Hacktoberfest :heavy_check_mark:
+
+How it looks | How to get?
+-------------|---------
+<img src="" width="600" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests [**Take me there!**](https://hacktoberfest.digitalocean.com/)
+
+---
+
 ## Stickers :page_facing_up:
 
 ### alligator.io
