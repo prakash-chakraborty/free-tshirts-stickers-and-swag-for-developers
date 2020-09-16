@@ -11,8 +11,8 @@ Star :star: the repo for your reference.
 ### Shortcuts
 
 * [T-shirts](#t-shirts-shirt)
-* [Stickers](#stickers-page_facing_up)
 * [Gift Cards](#gift-cards-credit_card)
+* [Stickers](#stickers-page_facing_up)
 * [Devices](#devices-iphone)
 * [Misc](#misc-gift)
 * [Info](#info)
