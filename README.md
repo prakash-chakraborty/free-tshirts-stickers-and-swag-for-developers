@@ -8,12 +8,11 @@ This awesome list contains currently available free tshirts, free stickers and o
 
 Star :star: the repo for your reference.
 
-Note: Swags with :heavy_check_mark: on it's title has been received by one or more of our collaborators. <br>
-
 ### Shortcuts
 
 * [T-shirts](#t-shirts-shirt)
 * [Stickers](#stickers-page_facing_up)
+* [Gift-Cards](#gift-cards-credit_card)
 * [Devices](#devices-iphone)
 * [Misc](#misc-gift)
 * [Info](#info)
@@ -75,6 +74,12 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://cdn.neo4jlabs.com/images/certified-shirt.png" width="300"> | Complete neo4j free certification exam. [**Take me there!**](https://neo4j.com/graphacademy/neo4j-certification/)
+
+
+---
+
+## Gift Cards :credit_card:
+
 
 
 ---
