@@ -169,7 +169,7 @@ How it looks | How to get?
 
 Know about some cool new tshirts or stickers being given away? Raise a pull request with the link and I'll make sure it gets added.
 
-[Buy me a coffee :smiley:](https://www.buymeacoffee.com/prakashc94)
+[Buy me a coffee :smiley:](https://imjo.in/SuBz5d)
 
 Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories).
 
