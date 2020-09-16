@@ -83,7 +83,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="" width="600" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests [**Take me there!**](https://hacktoberfest.digitalocean.com/)
+<img src="https://hacktoberfest.digitalocean.com/HF-full-logo.svg" width="600" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests [**Take me there!**](https://hacktoberfest.digitalocean.com/)
 
 ---
 
