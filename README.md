@@ -139,6 +139,12 @@ How it looks | How to get?
 -------------|---------
 <img src="https://d1lfyz5kwt8vu9.cloudfront.net/t3nu2ptq9pi0fswk9qxb.jpg" width="400"> | Contribute to NativeScript and get stickers and more. [**Take me there!**](https://www.nativescript.org/blog/nativescript-first-time-contribution-contest-continued-and-extended)
 
+### :information_source: IHP (Integrated Haskell Platform)
+
+How it looks | How to get?
+-------------|------------
+<img src="https://imgur.com/PitIxBd.png" width="400"> | Just fill out a form, that is linked on IHP's repository or write an email to hi@digitallyinduced.com. [**Take me there!**](https://docs.google.com/forms/d/e/1FAIpQLSf7XHkba-mn3GNIsh5n4ftB7hlHmRx9zluicvSKDKU5Z-jJKg/viewform)
+
 ---
 
 ## Devices :iphone:
