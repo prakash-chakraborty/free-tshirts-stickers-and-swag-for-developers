@@ -23,11 +23,11 @@ Happy Shopping! :gift: :gift:
 
 ## T-shirts :shirt:
 
-### :information_source: DigitalOcean : Hacktoberfest
+### :information_source: DigitalOcean : Hacktoberfest (Also includes stickers)
 
 How it looks | How to get?
 -------------|---------
-<img src="https://hacktoberfest.digitalocean.com/HF-full-logo.svg" width="600" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests [**Take me there!**](https://hacktoberfest.digitalocean.com/)
+<img src="https://imgur.com/ScG9kRj.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests [**Take me there!**](https://hacktoberfest.digitalocean.com/)
 
 
 ### :information_source: Blockstack : Zero-to-DApp 
