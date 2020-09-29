@@ -168,6 +168,83 @@ How it looks | How to get?
 -------------|---------
 <img src="https://i.redd.it/swx7lfbu8ht21.jpg" width="600"> | Submit a video where you are answering 5 simple questions.  [**Take me there!**](https://discordapp.com/hypesquad)
 
+
+### :information_source: CircleCI - T-shirt + Stickers + Pin!
+
+How it looks | How to get?
+-------------|---------
+<img src="https://hacktoberfest.circleci.com/img/swag-mock.png" width="300"> | Checkout [participation details](https://hacktoberfest.circleci.com/#participate)
+
+
+### :information_source: Camunda - T-shirt + Stickers
+
+How it looks | How to get?
+-------------|---------
+<img src="https://camunda.com/wp-content/uploads/2020/09/elementsnew-hf2.png" width="300"> | Checkout [participation details](https://camunda.com/hacktoberfest2020/)
+
+
+### :information_source: InfraCloud - T-shirt + Stickers + Kindle
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://www.infracloud.io/blogs/infracloud-joins-hacktoberfest-2020/)
+
+
+### :information_source: LoginRadius - T-shirt + Stickers
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://www.loginradius.com/engineering/page/hacktoberfest2020)
+
+
+### :information_source: Vonage - Socks or $5 Gift Card
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://developer.nexmo.com/hacktoberfest)
+
+
+### :information_source: Hasura - NA (Surprise reveal on twitter)
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/)
+
+
+### :information_source: Tripal - 2 T-shirts
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://tripal.info/news/tripal-hacktoberfest-2020)
+
+
+### :information_source: sensenet - Socks
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://hacktoberfest.sensenet.com/)
+
+
+### :information_source: indeed - Sweatshirt (Shipping within US only)
+
+How it looks | How to get?
+-------------|---------
+<img src="https://rac4ou2q3g246tjk3rxqbt1c-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/indeed_open_source_sweatshirt-1.png" width="300"> | Checkout [participation details](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/)
+
+
+### :information_source: MayaData - Not Revealed
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
+
+
+### :information_source: Webiny - Swag Pack
+
+How it looks | How to get?
+-------------|---------
+NA | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
+
 ---
 
 
