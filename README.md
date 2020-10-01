@@ -147,6 +147,14 @@ How it looks | How to get?
 
 ---
 
+### :information_source: WhatIsMyBrowser.com
+
+How it looks | How to get?
+-------------|------------
+<img src="https://cdn.whatismybrowser.com/prod-developers/static/main/content/api/swag/whatismybrowser-stickers.jpg" width="400"> | Your system needs to be integrated with their API and have sent at least 1 API request. [**Take me there!**](https://developers.whatismybrowser.com/api/swag/)
+
+---
+
 ## Devices :iphone:
 
 ### Empty at this point :(
