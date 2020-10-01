@@ -17,7 +17,7 @@ Star :star: the repo for your reference.
 * [Misc](#misc-gift)
 * [Info](#info)
 
-Happy Shopping! :gift: :gift:
+Enjoy Your Shopping!!! :gift: :gift:
 
 ---
 
@@ -25,7 +25,7 @@ Happy Shopping! :gift: :gift:
 
 ### :information_source: DigitalOcean : Hacktoberfest (Also includes stickers)
 
-How it looks | How to get?
+How It Looks? | How To Get?
 -------------|---------
 <img src="https://imgur.com/fAuXACg.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests. This year, you can choose between dark and light version of the tshirt. [**Take me there!**](https://hacktoberfest.digitalocean.com/)
 
