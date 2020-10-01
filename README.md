@@ -152,6 +152,13 @@ How it looks | How to get?
 -------------|------------
 <img src="https://imgur.com/PitIxBd.png" width="400"> | Just fill out a form, that is linked on IHP's repository or write an email to hi@digitallyinduced.com. [**Take me there!**](https://docs.google.com/forms/d/e/1FAIpQLSf7XHkba-mn3GNIsh5n4ftB7hlHmRx9zluicvSKDKU5Z-jJKg/viewform)
 
+### :information_source: Free Software Foundation Europe - Stickers
+
+How it looks | How to get?
+-------------|------------
+<img src="https://fsfe.org/contribute/promopics/fsfe-sticker-thumb.png" width="400"> | If you want to fight for free software, get your promotional and information material for free  [**Take me there!**](https://fsfe.org/contribute/spreadtheword)
+
+
 ---
 
 ### :information_source: WhatIsMyBrowser.com
@@ -251,6 +258,7 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://dev-to-uploads.s3.amazonaws.com/i/c9jfsatz14vkied629co.png" width="500"> | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
+
 
 ---
 
