@@ -157,9 +157,14 @@ How it looks | How to get?
 
 ## Devices :iphone:
 
-### Empty at this point :(
 
 ---
+### :information_source: Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2!
+
+How it looks | How to get?
+-------------|---------
+<img src="https://user-content.gitlab-static.net/ac9b9b16e7dd12065ad8ccfa24db5c9411015d58/68747470733a2f2f692e7974696d672e636f6d2f76692f7879755a7a43725a5131672f6d617872657364656661756c742e6a7067" width="600"> | If you develop a game & submit, Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2[**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
+
 
 ## Misc :gift:
 
