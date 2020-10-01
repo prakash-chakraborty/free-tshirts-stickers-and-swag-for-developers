@@ -252,6 +252,12 @@ How it looks | How to get?
 -------------|---------
 <img src="https://dev-to-uploads.s3.amazonaws.com/i/c9jfsatz14vkied629co.png" width="500"> | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
 
+### :information_source: Microsoft Learn Student Ambassador - Swags and Bragging rigths
+
+How it looks | How to get?
+-------------|---------
+<img src="https://i.ibb.co/mzBKHj3/Screenshot-2020-10-01-180123.png" width="500"> | The Microsoft Learn Student Ambassadors program is a global group of on-campus ambassadors who are eager to help students and their communities, lead in their local tech circles, and develop technical and career skills for the future. As a Student partner you get amazing benefits in the form of swags and softwares. [For more details](https://studentambassadors.microsoft.com)
+
 ---
 
 
