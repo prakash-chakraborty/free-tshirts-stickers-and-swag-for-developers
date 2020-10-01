@@ -27,7 +27,7 @@ Happy Shopping! :gift: :gift:
 
 How it looks | How to get?
 -------------|---------
-<img src="https://imgur.com/ScG9kRj.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests [**Take me there!**](https://hacktoberfest.digitalocean.com/)
+<img src="https://imgur.com/fAuXACg.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests. This year, you can choose between dark and light version of the tshirt. [**Take me there!**](https://hacktoberfest.digitalocean.com/)
 
 
 ### :information_source: Blockstack : Zero-to-DApp 
