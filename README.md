@@ -257,8 +257,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://dev-to-uploads.s3.amazonaws.com/i/c9jfsatz14vkied629co.png" width="400">
- | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
+<img src="https://dev-to-uploads.s3.amazonaws.com/i/c9jfsatz14vkied629co.png" width="400"> | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
 
 ---
 
