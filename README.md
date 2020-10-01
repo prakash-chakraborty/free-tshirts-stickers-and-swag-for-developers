@@ -73,6 +73,12 @@ How it looks | How to get?
 
 ---
 
+### :information_source: LoginRadius: Hacktoberfest (Also includes stickers)
+
+How it looks | How to get?
+-------------|---------
+<img src="https://www.loginradius.com/engineering/static/hacktober-fest-cover-image-22afbd309ea04388ddc40bf058a54d09.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
+
 ## Gift Cards :credit_card:
 
 ### :information_source: Gartner peerinsigths 
