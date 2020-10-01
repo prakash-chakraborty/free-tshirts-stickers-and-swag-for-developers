@@ -2,7 +2,7 @@
 
 # Free T-shirts, Free Stickers and more for Developers!
 
-This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley: <br>
+This awesome list contains currently available free goodies like tshirts,stickers,swags etc for developers :smiley: <br>
 
 **:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**
 
