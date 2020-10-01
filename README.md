@@ -79,6 +79,7 @@ How it looks | How to get?
 -------------|---------
 <img src="https://www.loginradius.com/engineering/static/hacktober-fest-cover-image-22afbd309ea04388ddc40bf058a54d09.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
 
+
 ## Gift Cards :credit_card:
 
 ### :information_source: Gartner peerinsigths 
@@ -209,12 +210,6 @@ How it looks | How to get?
 NA | Checkout [participation details](https://www.infracloud.io/blogs/infracloud-joins-hacktoberfest-2020/)
 
 
-### :information_source: LoginRadius - T-shirt + Stickers
-
-How it looks | How to get?
--------------|---------
-NA | Checkout [participation details](https://www.loginradius.com/engineering/page/hacktoberfest2020)
-
 
 ### :information_source: Vonage - Socks or $5 Gift Card
 
@@ -255,14 +250,15 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-NA | Checkout [participation details](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
+<img src="https://blog.mayadata.io/hs-fs/hubfs/Hacktoberfest%20desktop%20version.png?width=1501&name=Hacktoberfest%20desktop%20version.png" width="400"> | Checkout [participation details](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
 
 
 ### :information_source: Webiny - Swag Pack
 
 How it looks | How to get?
 -------------|---------
-NA | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
+<img src="https://dev-to-uploads.s3.amazonaws.com/i/c9jfsatz14vkied629co.png" width="400">
+ | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
 
 ---
 
