@@ -1,0 +1,79 @@
+#include<stdio.h>
+#include<string.h>
+#include<conio.h>
+
+void data(){
+		int press;
+
+		int id;
+		char name[50];
+			printf("\nThank you for comming :-)");
+
+
+
+				printf("\nEnter your valid id number: ");
+			scanf("%d",&id);
+			fflush(stdin);
+			printf("\nEnter your name: ");
+			gets(name);
+				printf("\n1.LPG big cylinders\n2.LPG mini cylinders\n3.acetylin cylinders\ndefault.cancel your orders");
+
+		
+
+			printf("\nEnter your choice:");
+			scanf("%d",&press);
+			switch(press){
+
+					case 1:
+							printf("----------------------------------------------------------------------------------");
+							printf("\nLpg big cylinders");
+							printf("\nyour choice lpg big cylinders\n");
+							printf("Your id %d\n",id);
+							printf("your name: ");
+							puts(name);
+							printf("\nyour order is sucessful\nyour gas delivary within 24 days\n");
+							printf("----------------------------------------------------------------------------------");
+							break;
+					case 2:
+							printf("----------------------------------------------------------------------------------");
+							printf("\nLpg mini cylinders");
+							printf("\nyour choice mini cylinders\n");
+							printf("Your id %d\n",id);
+							printf("your name: ");
+							puts(name);
+							printf("\nyour order is sucessful\nyour gas delivary within 24 days\n");
+							printf("----------------------------------------------------------------------------------");
+							break;
+                                        case 3:
+							printf("----------------------------------------------------------------------------------");
+							printf("\nacetylin cylinders");
+							printf("\nyour choice acetylin cylinders\n");
+							printf("Your id %d\n",id);
+							printf("your name: ");
+							puts(name);
+							printf("\nyour order is sucessful \n your gas delivary within 24 days\n");
+							printf("----------------------------------------------------------------------------------");
+							break;
+					default:
+							printf("----------------------------------------------------------------------------------");
+							printf("\ncancel your order ");
+							printf("\nyour order with name and id cancel sucessfully\n");
+							printf("----------------------------------------------------------------------------------");
+}
+
+}
+	
+int main()
+{
+	char choice = 'y';
+    data();
+		printf("\n\nyou want to continue yes or no\nif yes press y or no press n:");
+		choice = getche();
+		
+	}while(choice == 'y');
+
+
+	return 0;
+	
+	
+}
