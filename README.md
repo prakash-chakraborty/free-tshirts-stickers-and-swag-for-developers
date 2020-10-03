@@ -34,7 +34,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://static.tildacdn.com/tild6433-6535-4833-b932-323062343930/Zero_to_Dapp_shirt_p.png" width="600"> | Before you can get a t-shirt, you must complete the Zero-to-DApp tutorial and submit your sample [**Take me there!**](https://community.blockstack.org/z2d-shirt)
+<img src="https://static.tildacdn.com/tild6433-6535-4833-b932-323062343930/Zero_to_Dapp_shirt_p.png" width="600"> | Before you can get a t-shirt, you must complete the Zero-to-DApp tutorial and submit your sample. [**Take me there!**](https://community.blockstack.org/z2d-shirt)
 
 
 ### :information_source: erxes 
@@ -193,14 +193,14 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://camunda.com/wp-content/uploads/2020/09/elementsnew-hf2.png" width="500"> | Checkout [participation details](https://camunda.com/hacktoberfest2020/)
+<img src="https://camunda.com/wp-content/uploads/2020/09/elementsnew-hf2.png" width="500"> | Checkout! [participation details](https://camunda.com/hacktoberfest2020/)
 
 
 ### :information_source: InfraCloud - T-shirt + Stickers + Kindle
 
 How it looks | How to get?
 -------------|---------
-<img src="https://www.infracloud.io/wp-content/uploads/2020/09/Hacktober-Fest-header-image.png" width="500"> | Checkout [participation details](https://www.infracloud.io/blogs/infracloud-joins-hacktoberfest-2020/)
+<img src="https://www.infracloud.io/wp-content/uploads/2020/09/Hacktober-Fest-header-image.png" width="500"> | Checkout! [participation details](https://www.infracloud.io/blogs/infracloud-joins-hacktoberfest-2020/)
 
 
 
@@ -208,49 +208,49 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://hasura.io/blog/content/images/2020/09/Hacktoberfest-2020--5--1.png" width="500"> | Checkout [participation details](https://developer.nexmo.com/hacktoberfest)
+<img src="https://hasura.io/blog/content/images/2020/09/Hacktoberfest-2020--5--1.png" width="500"> | Checkout! [participation details](https://developer.nexmo.com/hacktoberfest)
 
 
 ### :information_source: Hasura - NA (Surprise reveal on twitter)
 
 How it looks | How to get?
 -------------|---------
-<img src="https://hasura.io/blog/content/images/2020/09/Hacktoberfest-2020--5--1.png" width="500"> | Checkout [participation details](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/)
+<img src="https://hasura.io/blog/content/images/2020/09/Hacktoberfest-2020--5--1.png" width="500"> | Checkout! [participation details](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/)
 
 
 ### :information_source: Tripal - 2 T-shirts
 
 How it looks | How to get?
 -------------|---------
-<img src="https://tripal.info/sites/default/files/TripalLogo_light_lrg_0.png" width="500"> | Checkout [participation details](https://tripal.info/news/tripal-hacktoberfest-2020)
+<img src="https://tripal.info/sites/default/files/TripalLogo_light_lrg_0.png" width="500"> | Checkout! [participation details](https://tripal.info/news/tripal-hacktoberfest-2020)
 
 
 ### :information_source: sensenet - Socks
 
 How it looks | How to get?
 -------------|---------
-<img src="https://hacktoberfest.sensenet.com/img/sensenet101.png" width="500"> | Checkout [participation details](https://hacktoberfest.sensenet.com/)
+<img src="https://hacktoberfest.sensenet.com/img/sensenet101.png" width="500"> | Checkout! [participation details](https://hacktoberfest.sensenet.com/)
 
 
 ### :information_source: indeed - Sweatshirt (Shipping within US only)
 
 How it looks | How to get?
 -------------|---------
-<img src="https://rac4ou2q3g246tjk3rxqbt1c-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/indeed_open_source_sweatshirt-1.png" width="500"> | Checkout [participation details](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/)
+<img src="https://rac4ou2q3g246tjk3rxqbt1c-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/indeed_open_source_sweatshirt-1.png" width="500"> | Checkout! [participation details](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/)
 
 
 ### :information_source: MayaData - Not Revealed
 
 How it looks | How to get?
 -------------|---------
-<img src="https://blog.mayadata.io/hs-fs/hubfs/Hacktoberfest%20desktop%20version.png?width=1501&name=Hacktoberfest%20desktop%20version.png" width="500"> | Checkout [participation details](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
+<img src="https://blog.mayadata.io/hs-fs/hubfs/Hacktoberfest%20desktop%20version.png?width=1501&name=Hacktoberfest%20desktop%20version.png" width="500"> | Checkout! [participation details](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
 
 
 ### :information_source: Webiny - Swag Pack
 
 How it looks | How to get?
 -------------|---------
-<img src="https://dev-to-uploads.s3.amazonaws.com/i/c9jfsatz14vkied629co.png" width="500"> | Checkout [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
+<img src="https://dev-to-uploads.s3.amazonaws.com/i/c9jfsatz14vkied629co.png" width="500"> | Checkout! [participation details](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4)
 
 ---
 
