@@ -95,6 +95,12 @@ How it looks | How to get?
 -------------|---------
 <img src="https://images.g2crowd.com/uploads/wizard_mode_step/image/314/G2_Logo_600_2x.png" width="400"> | Write genuine reviews for softwares that you are/have used in your work and get paid giftcards. Rewards range from 5 USD to 25 USD! [**Take me there!**](https://www.g2.com/wizard/new-review)
 
+### :information_source: softwaresuggest
+
+How it looks | How to get?
+-------------|---------
+<img src="https://www.softwaresuggest.com/assets2/img/write_review_sidebar_profile/sicon.png"> | Write genuine reviews for softwares that you are/have used in your work and get paid giftcards. Written reward is INR:250/- and video review is INR:1000/- amazon gift card! [**Take me there!**](https://www.softwaresuggest.com/write-review)
+
 
 ### :information_source: TrustRadius 
 
