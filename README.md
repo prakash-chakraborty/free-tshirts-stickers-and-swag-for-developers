@@ -189,12 +189,6 @@ How it looks | How to get?
 
 ## Misc :gift:
 
-### :information_source: NPM - Socks!
-
-How it looks | How to get?
--------------|---------
-<img src="https://cdn-images-1.medium.com/max/1000/0*LiRr7IR_2s1Ya7BD.jpg" width="600"> | Help fix a bug or improve documentation.  [**Take me there!**](https://medium.com/npm-inc/npm-weekly-131-get-socks-for-docs-welcome-lorin-terri-plus-global-diversity-cfp-day-is-1b965ebc19ca)
-
 
 ### :information_source: CircleCI - T-shirt + Stickers + Pin!
 
