@@ -272,6 +272,11 @@ How it looks | How to get?
 -------------|---------
 <img src="https://d33wubrfki0l68.cloudfront.net/767dbb7000d2a72e25f896338f27681456b8d3d3/9772e/assets/swag-img/docusaurus-abd81396f3.webp" width="500"> | Checkout [details](https://github.com/facebook/docusaurus/issues/1834)
 
+### :infromation_source: Redis cloud -  T-shirt. (Ships only to North America)
+
+How it looks | How to get?
+-------------|---------
+<img src="https://d33wubrfki0l68.cloudfront.net/47a7b4e63e0f639be3c4560d6f0675f32a8d3750/02d35/assets/swag-img/redis_cloud-f92314e38e.webp" width="500"> | Checkout [details](https://redislabs.com/try-free/)
 ---
 
 
