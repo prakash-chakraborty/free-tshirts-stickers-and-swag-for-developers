@@ -272,6 +272,11 @@ How it looks | How to get?
 -------------|---------
 <img src="https://d33wubrfki0l68.cloudfront.net/767dbb7000d2a72e25f896338f27681456b8d3d3/9772e/assets/swag-img/docusaurus-abd81396f3.webp" width="500"> | Checkout [details](https://github.com/facebook/docusaurus/issues/1834)
 
+### :information_source: Specflow - Stickers
+
+How it looks | How to get?
+-------------|---------
+<img src="https://i.imgur.com/PpmlhuQ.png" width="500"> | Checkout [details](https://specflow.org/contributer-package)
 ---
 
 
