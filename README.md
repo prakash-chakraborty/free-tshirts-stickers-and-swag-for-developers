@@ -277,6 +277,12 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://i.imgur.com/PpmlhuQ.png" width="500"> | Checkout [details](https://specflow.org/contributer-package)
+
+### :information_source : Meedan
+
+How it looks | How to get?
+-------------|---------
+<img src="https://d33wubrfki0l68.cloudfront.net/10de0fe3e1ead895f736dbcd8be5b68148ce8d10/125f2/assets/swag-img/meedan-c7bf2dff55.webp" width="500"> | Checkout [details](https://meedan.com/hacktoberfest)
 ---
 
 
