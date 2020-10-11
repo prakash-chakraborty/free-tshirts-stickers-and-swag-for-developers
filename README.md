@@ -65,14 +65,6 @@ How it looks | How to get?
 <img src="https://www.gatsbyjs.org/static/gatsby-icon-4a9773549091c227cd2eb82ccd9c5e3a.png" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 
-### :information_source: neo4j 
-
-How it looks | How to get?
--------------|---------
-<img src="https://cdn.neo4jlabs.com/images/certified-shirt.png" width="300"> | Complete neo4j free certification exam. [**Take me there!**](https://neo4j.com/graphacademy/neo4j-certification/)
-
----
-
 ### :information_source: LoginRadius: Hacktoberfest (Also includes stickers)
 
 How it looks | How to get?
