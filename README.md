@@ -63,13 +63,7 @@ How it looks | How to get?
 <img src="https://www.gatsbyjs.org/static/gatsby-icon-4a9773549091c227cd2eb82ccd9c5e3a.png" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 ---
-### neo4j :heavy_check_mark:
 
-How it looks | How to get?
--------------|---------
-<img src="https://cdn.neo4jlabs.com/images/certified-shirt.png" width="400"> | Complete neo4j free certification exam. [**Take me there!**](https://neo4j.com/graphacademy/neo4j-certification/)
-
----
 
 
 
