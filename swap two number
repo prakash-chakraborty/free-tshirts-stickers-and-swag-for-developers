@@ -1,0 +1,6 @@
+#swap two no.
+a=input("enter first no.: ")
+b=input("enter second no.: ")
+print(f"the original no. is a= {a} & b= {b}")
+a,b=b,a
+print(f'After swap no. is a= {a} & b={b}')
