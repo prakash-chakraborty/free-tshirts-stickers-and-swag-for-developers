@@ -30,13 +30,6 @@ How it looks | How to get?
 <img src="https://imgur.com/fAuXACg.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests. This year, you can choose between dark and light version of the tshirt. [**Take me there!**](https://hacktoberfest.digitalocean.com/)
 
 
-### :information_source: Blockstack : Zero-to-DApp 
-
-How it looks | How to get?
--------------|---------
-<img src="https://static.tildacdn.com/tild6433-6535-4833-b932-323062343930/Zero_to_Dapp_shirt_p.png" width="600"> | Before you can get a t-shirt, you must complete the Zero-to-DApp tutorial and submit your sample [**Take me there!**](https://community.blockstack.org/z2d-shirt)
-
-
 ### :information_source: erxes 
 
 How it looks | How to get?
