@@ -74,13 +74,6 @@ How it looks | How to get?
 
 ## Gift Cards :credit_card:
 
-### :information_source: Gartner peerinsigths 
-
-How it looks | How to get?
--------------|---------
-<img src="https://reviews.static.gartner.com/img/logo-gpi-2.png" width="400"> | Write genuine reviews for softwares that you are/have used in your work and get paid giftcards. Rewards range from 5 USD to 25 USD! [**Take me there!**](https://www.gartner.com/reviews/invite/1NFZwhwbT?s=link)
-
-
 ### :information_source: G2
 
 How it looks | How to get?
