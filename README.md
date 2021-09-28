@@ -69,7 +69,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://www.loginradius.com/engineering/static/hacktober-fest-cover-image-22afbd309ea04388ddc40bf058a54d09.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
+<img src="https://www.loginradius.com/blog/async/static/a973ce89b99f360855681cd2a587531e/aca38/Hacktoberfest-2021.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
 
 ## Gift Cards :credit_card:
