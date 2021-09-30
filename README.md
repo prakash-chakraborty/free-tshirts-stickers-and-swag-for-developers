@@ -98,7 +98,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://unity.trustradius.com/wp-content/uploads/trustradius-dark-blue-2-1536x345.png" width="400"> | Write genuine reviews for softwares that you are/have used in your work and get paid giftcards. Rewards range from 5 USD to 25 USD! [**Take me there!**](https://www.trustradius.com/reviews/new)
+<img src="https://i.ibb.co/NLCyxVH/5c8452e29eacd1f4f56563ca-lead-trustradius-x1216-2x.png" width="400"> | Write genuine reviews for softwares that you are/have used in your work and get paid giftcards. Rewards range from 5 USD to 25 USD! [**Take me there!**](https://www.trustradius.com/reviews/new)
 
 ---
 
