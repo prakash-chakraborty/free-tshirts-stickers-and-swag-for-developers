@@ -23,11 +23,11 @@ Happy Shopping! :gift: :gift:
 
 ## T-shirts :shirt:
 
-### :information_source: DigitalOcean : Hacktoberfest (Also includes stickers)
+### :information_source: DigitalOcean : Hacktoberfest 2021 (Also includes stickers)
 
 How it looks | How to get?
 -------------|---------
-<img src="https://imgur.com/fAuXACg.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests. This year, you can choose between dark and light version of the tshirt. [**Take me there!**](https://hacktoberfest.digitalocean.com/)
+<img src="https://i.ibb.co/wcFFpVv/w0shqntyjc5vyfuyn5bg.jpg" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete 4 pull requests. This year, you can choose between dark and light version of the tshirt. [**Take me there!**](https://hacktoberfest.digitalocean.com/)
 
 
 ### :information_source: Blockstack : Zero-to-DApp 
@@ -62,14 +62,14 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://www.gatsbyjs.org/static/gatsby-icon-4a9773549091c227cd2eb82ccd9c5e3a.png" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
+<img src="https://i.ibb.co/8X63C2j/gatsby-logo.png" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 
 ### :information_source: LoginRadius: Hacktoberfest (Also includes stickers)
 
 How it looks | How to get?
 -------------|---------
-<img src="https://www.loginradius.com/engineering/static/hacktober-fest-cover-image-22afbd309ea04388ddc40bf058a54d09.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
+<img src="https://i.ibb.co/4108GQ7/Announcing-New-Look-of-Login-Radius.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
 
 
 ## Gift Cards :credit_card:
@@ -182,7 +182,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://user-content.gitlab-static.net/ac9b9b16e7dd12065ad8ccfa24db5c9411015d58/68747470733a2f2f692e7974696d672e636f6d2f76692f7879755a7a43725a5131672f6d617872657364656661756c742e6a7067" width="600"> | If you develop a game & submit, Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2[**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
+<img src="https://i.ibb.co/wSgJQLx/Blackwidow-1024x576.png" width="600"> | If you develop a game & submit, Razer will provide the applicant with a full line of Razer Chroma hardware to integrate the Razer Chroma SDK. This includes the Razer BlackWidow Chroma V2, Mamba TE, Firefly and Kraken 7.1 V2[**Take me there!**](https://developer.razer.com/works-with-chroma/developer/?_ga=2.98960919.888404555.1557307940-70325316.1557307940?_ga=2.98960919.888404555.1557307940-70325316.1557307940)
 
 
 ## Misc :gift:
@@ -192,7 +192,7 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://hacktoberfest.circleci.com/img/swag-mock.png" width="500"> | Checkout [participation details](https://hacktoberfest.circleci.com/#participate)
+<img src="https://i.ibb.co/0C27pTw/1-circleci-nom-nom-transparent.jpg" width="500"> | Checkout [participation details](https://hacktoberfest.circleci.com/#participate)
 
 
 ### :information_source: Camunda - T-shirt + Stickers
