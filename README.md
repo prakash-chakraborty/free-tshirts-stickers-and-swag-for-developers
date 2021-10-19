@@ -275,6 +275,14 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://d33wubrfki0l68.cloudfront.net/10de0fe3e1ead895f736dbcd8be5b68148ce8d10/125f2/assets/swag-img/meedan-c7bf2dff55.webp" width="500"> | Checkout [details](https://meedan.com/hacktoberfest)
+
+
+### :information_source : aquasec
+
+How it looks | How to get?
+-------------|---------
+<img src="https://blog.aquasec.com/hs-fs/hubfs/Hacktoberfest%202.0%20Blog%20Image%20v4.jpg?width=1418&name=Hacktoberfest%202.0%20Blog%20Image%20v4.jpg" width="500"> | Checkout [details](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source)
+
 ---
 
 
