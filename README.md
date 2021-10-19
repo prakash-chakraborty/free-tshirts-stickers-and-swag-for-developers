@@ -164,6 +164,12 @@ How it looks | How to get?
 <img src="https://d33wubrfki0l68.cloudfront.net/21bd73efcdc4bdca1bb5b7cf79e4712cbe292aac/05ec7/assets/swag-img/imgbot-0841e37be4.webp" width="400"> | Just do an open source pull request to Imgbot and get some awesome laptop stickers from ImgBot after filling out the form!  [**Take me there!**](https://docs.google.com/forms/d/e/1FAIpQLScpL5wT5dsFTXZou49p7_W7Y2sbMeqKulvDrwHQabecc4YF7w/viewform)
 
 
+### :information_source: ImgBot - Awesome laptop stickers
+
+How it looks | How to get?
+-------------|------------
+<img src="https://www.rundeck.com/hs-fs/hubfs/sticker.png" width="400"> | Just fill the form, and you'll get the stickers [**Take me there!**](https://www.rundeck.com/free-stickers)
+
 ---
 
 ### :information_source: WhatIsMyBrowser.com
