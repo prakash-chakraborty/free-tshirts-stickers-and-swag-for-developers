@@ -145,6 +145,13 @@ How it looks | How to get?
 <img src="https://pbs.twimg.com/media/CccQEDjUUAE9wRO.jpg" width="400"> | Just fillout a form to get free stickers!  [**Take me there!**](https://jsbin.com/help/stickers/)
 
 
+### :information_source: Dev Podcast
+
+How it looks | How to get?
+-------------|---------
+<img src="https://d33wubrfki0l68.cloudfront.net/590ca205e47ccfdd57f496a3f0496834c36b8709/98b8d/assets/swag-img/dev_podcast-ab94e5eedf.webp" height="250" width="500"> | Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers. [**Take me there!**](https://airtable.com/shr8oKAIMZgdYnBxx)
+
+
 ### :information_source: NativeScript 
 
 How it looks | How to get?
