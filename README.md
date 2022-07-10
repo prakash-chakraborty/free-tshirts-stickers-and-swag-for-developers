@@ -111,6 +111,13 @@ How it looks | How to get?
 <img src="https://d33wubrfki0l68.cloudfront.net/02931d36f812dbcc6a3e41f05d133a7cdcace063/949ca/images/stickers.png" width="400"> | Just request for a sticker!  [**Take me there!**](https://redwoodjs.com/stickers)
 
 
+### :information_source: Jina AI
+
+How it looks | How to get?
+-------------|---------
+<img src="https://jina.ai/assets/images/blog/swag/supporter_swag.jpg" width="900"> | If you've completed all levels(Beginner/Intermediate/Advanced) of the Jina Bootcamp quiz and shared your certificate on social media, you're all set for the awesome swag!  [**Take me there!**](https://jina.ai/blog/swag/)
+
+
 ### :information_source: alligator.io
 
 How it looks | How to get?
