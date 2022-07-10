@@ -55,21 +55,21 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="400"> | Complete 5 builds within a period of 30 days. Get stickers as well! [**Take me there!**](https://codeship.com/swag)
+<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="300"> | Complete 15 builds within a period of 30 days. Get stickers as well! [**Take me there!**](https://codeship.com/swag)
 
 
 ### :information_source: Gatsby 
 
 How it looks | How to get?
 -------------|---------
-<img src="https://i.ibb.co/8X63C2j/gatsby-logo.png" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
+<img src="https://i.ibb.co/8X63C2j/gatsby-logo.png" width="300"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 
 ### :information_source: LoginRadius: Hacktoberfest (Also includes stickers)
 
 How it looks | How to get?
 -------------|---------
-<img src="https://i.ibb.co/4108GQ7/Announcing-New-Look-of-Login-Radius.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
+<img src="https://i.ibb.co/4108GQ7/Announcing-New-Look-of-Login-Radius.png" width="300" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
 
 
 ## Gift Cards :credit_card:
