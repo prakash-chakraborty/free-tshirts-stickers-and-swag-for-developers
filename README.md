@@ -55,21 +55,21 @@ How it looks | How to get?
 
 How it looks | How to get?
 -------------|---------
-<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="400"> | Complete 5 builds within a period of 30 days. Get stickers as well! [**Take me there!**](https://codeship.com/swag)
+<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="300"> | Complete 15 builds within a period of 30 days. Get stickers as well! [**Take me there!**](https://codeship.com/swag)
 
 
 ### :information_source: Gatsby 
 
 How it looks | How to get?
 -------------|---------
-<img src="https://i.ibb.co/8X63C2j/gatsby-logo.png" width="400"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
+<img src="https://i.ibb.co/8X63C2j/gatsby-logo.png" width="300"> | If you contribute to the Gatsby org on GitHub, you can claim your swag. [**Take me there!**](https://www.gatsbyjs.org/docs/contributor-swag/?no-cache=1)
 
 
 ### :information_source: LoginRadius: Hacktoberfest (Also includes stickers)
 
 How it looks | How to get?
 -------------|---------
-<img src="https://i.ibb.co/4108GQ7/Announcing-New-Look-of-Login-Radius.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
+<img src="https://i.ibb.co/4108GQ7/Announcing-New-Look-of-Login-Radius.png" width="300" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
 
 
 ## Gift Cards :credit_card:
@@ -111,6 +111,13 @@ How it looks | How to get?
 <img src="https://d33wubrfki0l68.cloudfront.net/02931d36f812dbcc6a3e41f05d133a7cdcace063/949ca/images/stickers.png" width="400"> | Just request for a sticker!  [**Take me there!**](https://redwoodjs.com/stickers)
 
 
+### :information_source: Jina AI
+
+How it looks | How to get?
+-------------|---------
+<img src="https://jina.ai/assets/images/blog/swag/supporter_swag.jpg" width="900"> | If you've completed all levels(Beginner/Intermediate/Advanced) of the Jina Bootcamp quiz and shared your certificate on social media, you're all set for the awesome swag!  [**Take me there!**](https://jina.ai/blog/swag/)
+
+
 ### :information_source: alligator.io
 
 How it looks | How to get?
@@ -136,6 +143,20 @@ How it looks | How to get?
 How it looks | How to get?
 -------------|---------
 <img src="https://pbs.twimg.com/media/CccQEDjUUAE9wRO.jpg" width="400"> | Just fillout a form to get free stickers!  [**Take me there!**](https://jsbin.com/help/stickers/)
+
+
+### :information_source: Blitz.js
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/EwOMVmdWEAcMulN?format=jpg&name=900x900" width="400"> | Just fillout a form to get free stickers!  [**Take me there!**](https://blitzjs.com/stickers)
+
+
+### :information_source: Dev Podcast
+
+How it looks | How to get?
+-------------|---------
+<img src="https://d33wubrfki0l68.cloudfront.net/590ca205e47ccfdd57f496a3f0496834c36b8709/98b8d/assets/swag-img/dev_podcast-ab94e5eedf.webp" height="250" width="500"> | Leave a review about DevNews OR DevDiscuss podcasts on Apple Podcasts and get a free pack of DEV stickers. [**Take me there!**](https://airtable.com/shr8oKAIMZgdYnBxx)
 
 
 ### :information_source: NativeScript 
