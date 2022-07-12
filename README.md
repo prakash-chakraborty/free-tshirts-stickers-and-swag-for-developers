@@ -145,6 +145,13 @@ How it looks | How to get?
 <img src="https://pbs.twimg.com/media/CccQEDjUUAE9wRO.jpg" width="400"> | Just fillout a form to get free stickers!  [**Take me there!**](https://jsbin.com/help/stickers/)
 
 
+### :information_source: Blitz.js
+
+How it looks | How to get?
+-------------|---------
+<img src="https://pbs.twimg.com/media/EwOMVmdWEAcMulN?format=jpg&name=900x900" width="400"> | Just fillout a form to get free stickers!  [**Take me there!**](https://blitzjs.com/stickers)
+
+
 ### :information_source: Dev Podcast
 
 How it looks | How to get?
