@@ -51,13 +51,6 @@ How it looks | How to get?
 <img src="https://camo.githubusercontent.com/2390aa650f4b56a417db70025153adabd6234cf3/68747470733a2f2f6b6f6e6768712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f3130302d636f6e7472696275746f722d742d73686972742d31303234783736382e6a7067" width="400"> | If your Pull Request to Kong/kong was accepted, you are eligible to receive the very special Contributor T-shirt! [**Take me there!**](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt)
 
 
-### :information_source: Codeship 
-
-How it looks | How to get?
--------------|---------
-<img src="https://pbs.twimg.com/media/BvVImb4CQAAdMMA.jpg" width="400"> | Complete 5 builds within a period of 30 days. Get stickers as well! [**Take me there!**](https://codeship.com/swag)
-
-
 ### :information_source: Gatsby 
 
 How it looks | How to get?
