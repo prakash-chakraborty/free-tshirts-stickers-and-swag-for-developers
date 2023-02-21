@@ -36,14 +36,6 @@ How it looks | How to get?
 -------------|---------
 <img src="https://static.tildacdn.com/tild6433-6535-4833-b932-323062343930/Zero_to_Dapp_shirt_p.png" width="600"> | Before you can get a t-shirt, you must complete the Zero-to-DApp tutorial and submit your sample [**Take me there!**](https://community.blockstack.org/z2d-shirt)
 
-
-### :information_source: erxes 
-
-How it looks | How to get?
--------------|---------
-<img src="https://pbs.twimg.com/media/EUZVwoKXsAItG7y?format=jpg&name=medium" width="600"> | To show their appreciation, they are sending everyone who contributes to erxes a special package, which includes a t-shirt and stickers. [**Take me there!**](https://erxes.io/hubspot-alternative-erxes-swag)
-
-
 ### :information_source: Kong 
 
 How it looks | How to get?
