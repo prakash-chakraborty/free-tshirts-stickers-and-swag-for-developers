@@ -71,6 +71,10 @@ How it looks | How to get?
 -------------|---------
 <img src="https://i.ibb.co/4108GQ7/Announcing-New-Look-of-Login-Radius.png" width="400" alt="hacktoberfest"> | Before you can get a t-shirt, you must complete a pull requests at LoginRadius. [**Take me there!**](https://www.loginradius.com/engineering/page/hacktoberfest2020)
 
+### :information_source: Gofr (Also include stickers)
+| How it looks                                                                  | How to get?                                                                                                                                                                                                           |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://i.ibb.co/zHbd9K2/IMG-4113.jpg" width="400" alt="gofr-swag"> | To get the gofr t-shirt and stickers you must open a pull request, Once merged you are eligible for the swag. Find the google form in contribution guidelines. [**Take me there!**](https://github.com/gofr-dev/gofr) |
 
 ## Gift Cards :credit_card:
 
